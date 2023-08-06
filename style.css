@@ -1,0 +1,1014 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+.bg {
+    background: #156185;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    padding: 0px 20px;
+    padding: 5px;
+}
+
+.AUTOSAFE-di>ul {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    font-weight: 500;
+}
+
+.AUTOSAFE-button {
+    border: 1px solid #00ABFA;
+    width: 162px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.button {
+    display: flex;
+    margin: auto;
+    padding-top: 15px;
+    color: #00ABFA;
+    ;
+    background-color: white;
+    border: 0px solid;
+}
+
+.AUTOSAFE-button1 {
+    width: 162px;
+    height: 50px;
+    background-color: #00ABFA;
+    border-radius: 10px;
+}
+
+.button1 {
+    display: flex;
+    margin: auto;
+    padding-top: 15px;
+    background-color: #00ABFA;
+    color: white;
+    border: 0px solid;
+}
+
+.button-div {
+    display: flex;
+    gap: 10px;
+    max-width: 100%;
+    padding: 0px 20px;
+}
+
+.AUTOSAFE-di {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    max-width: 100%;
+}
+
+.AUTOSAFE-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+    margin-top: 20px;
+    max-width: 100%;
+}
+
+.d-p {
+    font-size: 21px;
+    max-width: 100%;
+}
+
+.d-h {
+    font-size: 48px;
+    max-width: 500px;
+    padding-top: 20px;
+
+}
+
+.d-p1 {
+    max-width: 460px;
+    padding-top: 20px;
+}
+
+.icon {
+    color: #00ABFA;
+}
+
+.d-icon {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding-top: 30px;
+    max-width: 100%;
+}
+
+.d-p2 {
+    max-width: 600px;
+    font-size: 24px;
+    font-weight: 900;
+    padding-top: 40px;
+}
+
+.oficial {
+    color: #00A1EB;
+    max-width: 600px;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.bg1 {
+    background-color: #E7F8FF;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.digital {
+    width: 458px;
+    height: 520px;
+    background-color: white;
+    max-width: 100%;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.digital-button {
+    border: 1px solid #E4E4E4;
+    width: 210px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.d-button {
+    display: flex;
+    margin: auto;
+    padding-top: 10px;
+    background-color: white;
+    border: 0px solid;
+}
+
+.digital-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    max-width: 100%;
+    gap: 20px;
+    padding: 0px 20px;
+}
+
+.digi-button {
+    width: 190px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #E4F5FD;
+}
+
+.d-button1 {
+    display: flex;
+    margin: auto;
+    padding-top: 10px;
+    background-color: #E4F5FD;
+    border: 0px solid;
+    color: #00ABFA;
+}
+
+.digital-di {
+    display: flex;
+    gap: 10px;
+    padding: 0px 20px;
+    padding-top: 10px;
+}
+
+.d-p3 {
+    max-width: 400px;
+    font-size: 20px;
+    padding: 0px 20px;
+    padding-top: 20px;
+}
+
+.input-box {
+    width: 100%;
+    padding: 15px;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+.input-box1 {
+    padding: 0px 20px;
+    padding-top: 25px;
+}
+
+.d-p4 {
+    color: #00ABFA;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.button-docto {
+    width: 130px;
+    height: 40px;
+    background-color: #D5E1E8;
+    border-radius: 40px;
+}
+
+.button-docto1 {
+    display: flex;
+    margin: auto;
+    border: 0px solid;
+    background-color: #D5E1E8;
+    color: #263238;
+    padding-top: 10px;
+
+}
+
+.d-p5 {
+    font-size: 16px;
+    color: #777;
+}
+
+.digital-div1 {
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+    gap: 10px;
+    
+}
+
+.main-button {
+    width: 400px;
+    height: 60px;
+    margin: auto;
+    background-color: #00ABFA;
+    margin-top: 30px;
+    border-radius: 10px;
+    max-width: 100%;
+}
+
+.main-button1 {
+    display: flex;
+    margin: auto;
+    padding-top: 20px;
+    background-color: #00ABFA;
+    border: 0px solid;
+    cursor: pointer;
+
+}
+
+.del-h1 {
+    color: #233F56;
+    margin: auto;
+    max-width: 600px;
+    text-align: center;
+    font-size: 32px;
+    margin-top: 100px;
+}
+
+.del-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 0px 20px;
+    margin-top: 30px;
+}
+
+.del-img {
+    display: flex;
+    margin: auto;
+    max-width: 100%;
+    padding: 0px 20px;
+    margin-top: 20px;
+}
+
+.del-p {
+    font-weight: 700;
+    font-size: 18px;
+    max-width: 200px;
+    padding: 0px 20px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.del-di {
+    border: 1px solid #ECECEC;
+    width: 280px;
+    height: 280px;
+}
+
+.del-p2 {
+    max-width: 160px;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.del-p3 {
+    max-width: 200px;
+    margin: auto;
+    margin-top: 15px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.del-p1 {
+    font-weight: 700;
+    font-size: 18px;
+    max-width: 150px;
+    padding: 0px 20px;
+    text-align: center;
+    margin: auto;
+    margin-top: 15px;
+
+}
+
+.del-p4 {
+    font-weight: 700;
+    font-size: 18px;
+    max-width: 180px;
+    text-align: center;
+    margin: auto;
+}
+
+.del-p5 {
+    max-width: 200px;
+    margin: auto;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.del-6 {
+    font-weight: 700;
+    font-size: 18px;
+    max-width: 180px;
+    text-align: center;
+    margin: auto;
+}
+
+.del-p7 {
+    max-width: 230px;
+    margin: auto;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.del-img1 {
+    display: flex;
+    margin: auto;
+    margin-top: 13px;
+}
+
+.con-h1 {
+    max-width: 700px;
+    margin: auto;
+    color: #233F56;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+.img {
+    display: flex;
+    margin: auto;
+    margin-top: 20px;
+    max-width: 100%;
+    width: 800px;
+    padding: 0px 20px;
+}
+
+.bg2 {
+    background-image: url("/img/Rectangle\ 663.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 50vh;
+    margin-top: 100px;
+    max-width: 100%;
+    padding: 0px 20px;
+}
+
+.Auto-img {
+    max-width: 100%;
+    width: 300px;
+    height: 150px;
+    margin-top: 50px;
+    padding: 0px 30px;
+}
+
+.Auto-h1 {
+    color: white;
+    font-weight: 400;
+    font-size: 41px;
+    padding: 0px 20px;
+    margin-top: 20px;
+}
+
+.Auto-h2 {
+    color: white;
+    font-size: 50px;
+    padding: 0px 20px;
+}
+
+.bg3 {
+    background-color: #E7F8FF;
+    margin-top: 30px;
+    width: 1220px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 10px;
+    max-width: 100%;
+    padding: 20px;
+}
+
+.cuesta-h1 {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 30px;
+    font-weight: 600;
+
+}
+
+.cuesta-p {
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 30px;
+    padding: 0px 20px;
+    max-width: 100%;
+}
+
+.cuesta-di {
+    background-color: #D5EBF5;
+    width: 328px;
+    height: 144px;
+    border-radius: 10px;
+}
+
+.cuesta-p1 {
+    color: #233F56;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 0px 20px;
+    padding-top: 20px;
+}
+
+.cuesta-p2 {
+    padding: 0px 20px;
+    padding-top: 20px;
+    max-width: 300px;
+}
+
+.cuesta-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.cuesta-h2 {
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+    max-width: 450px;
+    margin-top: 40px;
+}
+
+.cuesta-p3 {
+    font-weight: 900;
+    font-size: 25px;
+    padding-top: 60px;
+
+}
+
+.cuesta-p4 {
+    font-size: 20px;
+    padding-top: 20px;
+
+}
+
+.cuesta-box {
+    width: 100%;
+    padding: 18px;
+    max-width: 1500px;
+    border: 4px solid #00ABFA;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.cuesta-input {
+    margin: auto;
+    max-width: 680px;
+    padding: 0px 20px;
+}
+
+.bg4 {
+    background-color: #D5EBF5;
+    width: 600px;
+    height: 278px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    max-width: 100%;
+
+
+}
+
+.cuesta-p5 {
+    font-weight: 500;
+    font-size: 20px;
+    padding: 0px 20px;
+    max-width: 100%;
+    padding-top: 50px;
+    margin-left: 20px;
+
+}
+
+.cuesta-main1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 40px;
+    font-size: 20px;
+    margin-top: 20px;
+    color: #263238;
+}
+
+.cuesta-bor {
+    border: 2px solid #B1CAD6;
+    width: 560px;
+    margin: auto;
+    margin-top: 10px;
+    max-width: 100%;
+}
+
+.por-h1 {
+    font-size: 40px;
+    color: #233F56;
+    text-align: center;
+}
+
+.por-main1 {
+    width: 488px;
+    height: 132px;
+    border-radius: 10px;
+    background-color: #F3F3F3;
+    padding: 0px 20px;
+    margin-top: 20px;
+    max-width: 100%;
+
+}
+
+.por-p1 {
+    font-size: 20px;
+    font-weight: 800;
+    max-width: 100%;
+    padding: 0px 20px;
+    padding-top: 30px;
+}
+
+.por-p2 {
+    padding: 0px 20px;
+    padding-top: 20px;
+    width: 100%;
+}
+.Frecuentes-h3{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 40px;
+    color: #233E56;
+}
+
+.por-p3 {
+    padding: 0px 20px;
+    padding-top: 20px;
+    max-width: 420px;
+}
+
+.por-p4 {
+    padding: 0px 20px;
+    padding-top: 20px;
+    max-width: 410px;
+}
+
+.por-p5 {
+    padding: 0px 20px;
+    padding-top: 20px;
+}
+
+.por-grid {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+    padding: 0px 20px;
+    max-width: 100%;
+}
+.por-main2{
+    max-width: 100%;
+    padding: 0px 20px;
+}
+.bg5{
+   background-color: #F3F3F3;
+   display: flex;
+   align-items: center;
+   gap: 320px;
+   max-width: 100%;
+   margin-top: 100px;
+   flex-wrap: wrap;
+  
+   
+}
+.Rectangle-img{
+    height: 590px;
+    max-width: 800px;
+}
+
+.card-p {
+    text-align: center;
+    color: white;
+    background-color: #53CF5F;
+    padding-top: 30px;
+    font-weight: 700;
+    height: 80px;
+    border-radius: 10px;
+    max-width: 100%;
+}
+
+.card1 {
+    width: 280px;
+    height: 105px;
+    margin: auto;
+    padding: 0px 20px;
+    margin-top: 20px;
+    background-color: #F8F8F8;
+    border-radius: 10px;
+    max-width: 100%;
+    display: flex;
+    gap: 10px;
+    padding-top: 18px;
+
+}
+
+.img-1 {
+    height: 60px;
+    max-width: 100%;
+}
+
+.card-p1 {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.card-p2 {
+    color: #766565;
+    padding-top: 10px;
+}
+
+li {
+    font-size: 15px;
+    margin-left: 5px;
+    color: #A8A9A9;
+    font-weight: 600;
+    padding-top: 10px;
+}
+
+.li {
+    color: #53CF5F;
+}
+
+.bg6 {
+    background-image: url("/img/Rectangle\ 658.png"); 
+     background-position:  center;
+     background-repeat: no-repeat;
+    background-size: cover;
+    width: 800px;
+    max-width: 100%;
+    height: auto;
+    padding: 50px;
+   
+ }
+ .Rectangle-div{
+     padding: 100px 0 0 100px ;
+    max-width: 100%;
+ }
+ .Rectangle-p{
+    font-size: 30px;
+    color: white;
+    width: 470px;
+    padding-top: 50px;
+    max-width: 100%;
+}
+.Rectangle-img1{
+    padding-top: 80px;
+    max-width: 100%;
+}
+
+.main-div {
+   display: flex;
+   gap: 350px;
+   margin-top: 100px;
+}
+
+
+.main-card1{
+    width: 330px;
+    height: 500px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    max-width: 100%;
+    position: relative;
+    bottom: 480px;
+    left:300px;
+    max-width: 100%;  
+}
+.main-card2{
+    width: 330px;
+    height: 460px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    margin: 50px 0px 0px 50px;
+}
+.Updates-button {
+    border: 0px solid;
+    display: flex;
+    margin: auto;
+    padding: 30px 30px;
+    font-size: 15px;
+    font-weight: 900;
+    color: white;
+    background-color: #0D425B;
+    text-align: center;
+    min-width: 150px;
+    height: 80px;
+    border-radius: 10px;
+    max-width: 100%;
+    
+}
+.input-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 500px;
+    height:80px;
+    background: white;
+    gap: 10px;
+    padding-left: 30px;
+    margin: auto;
+    margin-top:70px;
+    border-radius: 10px;
+   
+   
+}
+.input-sec {
+    margin: 0 20px;
+}
+
+.input-box {
+    width: 100%;
+    background: white;
+    outline: none;
+    border: 0px ;
+    max-width: 100%;
+    height:50px;
+}
+.Frecuentes-p3{
+    font-size:  24px;
+     font-weight: 600;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     max-width:760px;
+     line-height: 32px
+}
+.Frecuentes-card{
+    width: 900px;
+    height: 80px;
+    background: #F2F2F2;
+    margin: auto;
+    padding: 0px 10px;
+    display: flex;
+   justify-content: space-between;
+   max-width: 100%;
+   margin-top: 40px;
+    
+}
+
+.Frecuentes-h1{
+    text-align: center;
+    font-size: 32px;
+    margin-top: 40px;
+}
+
+.Frecuentes-card1{
+    width: 900px;
+    background: #F2F2F2;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    padding: 0px 20px;
+    justify-content: space-between;
+    max-width: 100%;
+    margin-top: 30px;
+}
+.Frecuentes-p1{
+   max-width: 750px;
+   padding: 20px;
+}
+.Frecuentes-img{
+    height: 20px;
+   margin-top: 5px; 
+} 
+.audi-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 40px;
+    padding: 0px 20px;
+    max-width: 100%;
+}
+.bg7{
+    background: #12334B;
+    
+}
+.Quick-p1{
+    color: white;
+    max-width: 320px;
+    padding-top: 30px;
+}
+.Quick-p2{
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+}
+.Quick-p3{
+    color: white;
+    padding-top: 20px;
+}
+.border{
+    border: 1px solid white;
+    width: 1200px;
+    margin: auto;
+    max-width: 100%;
+    padding: 0px 20px;
+   margin-top: 20px;
+}
+.Quick-p4{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+.Quick-div{
+    display: flex; 
+    justify-content: space-around;
+   margin-top: 50px;
+   padding: 0px 20px;
+   max-width: 100%;
+   padding-top: 50px;
+   
+}
+.span{
+   color: #00ABFA;
+}
+
+
+
+              /* responsive code  */
+
+              @media only screen and (max-width:1000px) {
+                .AUTOSAFE-div{
+                   flex-direction: column;
+                }
+                .AUTOSAFE-di>ul {
+                   flex-direction: column;
+            
+                }
+                .AUTOSAFE-di {
+                   flex-direction: column;
+                }
+                .digital-div{
+                    flex-direction: column;
+                }
+            }
+            @media only screen and (max-width:950px) {
+                .del-div{
+                    flex-direction: column;
+                }
+                .audi-div{
+                    flex-direction: column;
+                }
+                .por-grid{
+                    flex-direction: column;
+                    max-width: 100%;
+                    padding: 0px 20px;
+                }
+            }
+           
+            @media only screen and (max-width:756px) {
+                .cuesta-div{
+                    flex-direction: column;
+                }
+                .main-card1{
+                   display: none;
+                }
+                .main-card2{
+                    margin: auto;
+                }
+                .bg5{
+                    gap: 40px;
+                }
+                .Rectangle-div{
+                    padding: 0px 0px ;
+                   max-width: 100%;
+                }
+               
+            }
+            @media only screen and (max-width:600px) {
+              .Quick-div{
+                flex-direction: column;
+                align-items: center;
+                gap: 20px;
+              }
+              .digital-di {
+               flex-wrap: wrap;
+                
+            }
+            .digital-div1{
+                flex-direction: column;
+                padding-top: 0px;
+            }
+            .main-button {
+                margin-top: 0px;
+                max-width: 100%;
+            }
+            
+            .input-box1 {
+                padding: 0px 20px;
+                padding-top: 10px;
+            }
+            .cuesta-p5 {
+                padding-top: 25px;
+            }
+               
+        }
+            @media only screen and (max-width:450px) {
+                .Rectangle-div{
+                    padding: 0px 0 0 0px ;
+                   max-width: 100%;
+                }
+                .Frecuentes-p3{
+                    font-size: 15px;
+                }
+                .bg1 {
+                    background-color: #E7F8FF;
+                    margin-top: 30px;
+                }
+                .d-p3 {
+                    max-width: 400px;
+                    font-size: 15px;
+                    padding-top: 10px;
+                }
+                .input-box1 {
+                    padding: 0px 20px;
+                    padding-top: 15px;
+                }
+                .Auto-h2 {
+                    font-size: 40px;
+                    max-width: 100%;
+                    padding: 0px 20px;
+                }
+                .cuesta-main1 {
+                    padding: 0px 40px;
+                    font-size: 14px;
+                    margin-top: 20px;
+                    color: #263238;
+                }
+                .cuesta-p5 {
+                    padding-top: 50px;
+                }
+            }
+            
+           
+
+
+
+
+
+
+
+
